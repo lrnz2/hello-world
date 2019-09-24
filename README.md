@@ -1,13 +1,7 @@
-# hello-world
-just hello world github
-edutedddddddddddddddddddddddddddddddddddddddddd
+# hello-world editado
 
-d
-d
-d
-d
-d
-d
-d
+se quito la linea
 
-d
+
+Añadidooooo
+---------------------
